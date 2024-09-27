@@ -1,0 +1,21 @@
+{
+  "name": "github.io",
+  "displayName": "starrysea's info",
+  "description": "starrysea",
+  "version": "1.0.0",
+  "publisher": "starrysea",
+  "license": "AGPL-3.0+",
+  "devDependencies": {
+    "gulp-clean-css": "4.3.0",
+    "gulp-autoprefixer": "7.0.1",
+    "gulp-postcss": "9.0.0",
+    "postcss-color-rgba-fallback": "4.0.0",
+    "postcss-opacity": "5.0.0",
+    "pixrem": "5.0.0",
+    "gulp-concat": "2.6.1",
+    "gulp-purifycss": "0.2.0",
+    "gulp-coffee": "^3.0.3",
+    "postcss-vmin": "^3.0.0",
+    "postcss-pseudoelements": "^5.0.0"
+  }
+}
